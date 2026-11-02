@@ -1,0 +1,21 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,Contract,PaymentMethod,MonthlyCharges,TotalCharges,Churn,Tenure_Group,Avg_Monthly_Spend,Churn_Flag
+CUST0001,Female,0,Yes,No,1,No,DSL,Month-to-month,Electronic check,29.85,29.85,Yes,New Customer,29.85,1
+CUST0002,Male,0,No,No,34,Yes,DSL,One year,Mailed check,56.95,1930.3,No,2-4 Years,56.773529411764706,0
+CUST0003,Female,0,Yes,Yes,2,Yes,Fiber optic,Month-to-month,Electronic check,53.85,107.7,Yes,New Customer,53.85,1
+CUST0004,Male,0,No,No,45,Yes,Fiber optic,Two year,Bank transfer,42.3,1903.5,No,2-4 Years,42.3,0
+CUST0005,Male,1,Yes,No,8,Yes,DSL,Month-to-month,Electronic check,70.7,565.6,Yes,New Customer,70.7,1
+CUST0006,Female,0,No,Yes,22,Yes,No,One year,Mailed check,20.15,443.3,No,1-2 Years,20.150000000000002,0
+CUST0007,Male,0,Yes,No,10,Yes,Fiber optic,Month-to-month,Credit card,89.1,891.0,No,New Customer,89.1,0
+CUST0008,Female,1,Yes,No,3,No,DSL,Month-to-month,Electronic check,29.75,89.25,Yes,New Customer,29.75,1
+CUST0009,Female,0,No,Yes,58,Yes,Fiber optic,Two year,Bank transfer,94.25,5466.5,No,4+ Years,94.25,0
+CUST0010,Male,0,Yes,No,12,Yes,No,One year,Mailed check,19.95,239.4,No,New Customer,19.95,0
+CUST0011,Female,1,No,Yes,70,Yes,Fiber optic,Two year,Credit card,99.65,6975.5,No,4+ Years,99.65,0
+CUST0012,Male,0,Yes,No,24,Yes,DSL,Month-to-month,Electronic check,65.3,1567.2,Yes,1-2 Years,65.3,1
+CUST0013,Female,0,No,No,5,No,DSL,Month-to-month,Mailed check,35.4,177.0,Yes,New Customer,35.4,1
+CUST0014,Male,1,Yes,Yes,36,Yes,Fiber optic,Two year,Bank transfer,88.2,3175.2,No,2-4 Years,88.19999999999999,0
+CUST0015,Female,0,Yes,No,15,Yes,No,One year,Credit card,24.5,367.5,No,1-2 Years,24.5,0
+CUST0016,Male,0,No,Yes,48,Yes,Fiber optic,Two year,Electronic check,92.75,4452.0,No,2-4 Years,92.75,0
+CUST0017,Female,1,Yes,No,7,No,DSL,Month-to-month,Mailed check,31.2,218.4,Yes,New Customer,31.2,1
+CUST0018,Male,0,No,No,60,Yes,Fiber optic,Two year,Bank transfer,101.1,6066.0,No,4+ Years,101.1,0
+CUST0019,Female,0,Yes,Yes,18,Yes,DSL,One year,Credit card,54.6,982.8,No,1-2 Years,54.599999999999994,0
+CUST0020,Male,1,No,No,2,No,Fiber optic,Month-to-month,Electronic check,75.8,151.6,Yes,New Customer,75.8,1

@@ -1,0 +1,151 @@
+property_id,city,neighborhood,property_type,area_sq_ft,bedrooms,bathrooms,age_years,condition,parking_available,furnished,sale_price_inr,sale_date
+RE0001,Pune,Suburb,Studio,1376,4,3.0,8,Good,No,No,12707000.0,2023-03-17
+RE0002,Pune,Downtown,Studio,1418,4,4.0,0,Good,No,Yes,19398000.0,2023-08-16
+RE0003,Pune,Hillside,Apartment,2045,4,3.0,6,Good,No,No,19523000.0,2025-01-18
+RE0004,Pune,Greenfield,Townhouse,1481,3,2.0,13,Good,Yes,No,12412000.0,2025-02-09
+RE0005,Pune,Lakeside,Townhouse,1408,3,2.0,7,Excellent,Yes,Yes,16382000.0,2022-01-15
+RE0006,Pune,Suburb,Apartment,898,1,1.0,14,Excellent,No,No,6538000.0,2023-10-15
+RE0007,Pune,Downtown,Townhouse,622,2,2.0,7,Average,No,No,9976000.0,2022-09-05
+RE0008,Pune,Lakeside,Townhouse,835,1,1.0,5,Good,Yes,No,10827000.0,2024-06-18
+RE0009,Pune,Suburb,Villa,1073,2,2.0,6,Needs Renovation,No,No,11841000.0,2022-10-08
+RE0010,Pune,Riverside,Apartment,974,3,2.0,4,Good,No,Yes,10624000.0,2024-07-30
+RE0011,Pune,Riverside,Townhouse,450,1,1.0,7,Good,Yes,No,27600125.0,2024-02-11
+RE0012,Pune,Downtown,Apartment,1091,3,2.0,4,Needs Renovation,Yes,No,15121000.0,2021-08-08
+RE0013,Pune,Downtown,Apartment,1082,2,2.0,1,Good,No,No,15815000.0,2023-06-03
+RE0014,Pune,Lakeside,Apartment,1413,3,3.0,10,Average,No,Yes,14482000.0,2022-02-07
+RE0015,Pune,Greenfield,Townhouse,897,2,2.0,14,Average,No,Yes,8488000.0,2024-12-09
+RE0016,Pune,Lakeside,Apartment,1172,3,3.0,19,Good,Yes,No,14732000.0,2023-11-27
+RE0017,Pune,Lakeside,Apartment,1487,2,2.0,10,Excellent,No,No,17449000.0,2021-04-14
+RE0018,Pune,Greenfield,Apartment,1070,2,2.0,23,Average,Yes,No,7634000.0,2023-03-12
+RE0019,Pune,Riverside,Apartment,1620,3,2.0,17,Average,Yes,No,17064000.0,2021-08-18
+RE0020,Pune,Suburb,Townhouse,2221,5,4.0,29,Average,Yes,No,19906000.0,2022-10-21
+RE0021,Pune,Riverside,Townhouse,525,1,1.0,13,Average,No,No,5847000.0,2024-02-14
+RE0022,Pune,Suburb,Apartment,1269,2,2.0,11,Needs Renovation,No,No,9565000.0,2025-12-21
+RE0023,Pune,Suburb,Villa,693,1,1.0,1,Good,Yes,Yes,8499000.0,2022-02-12
+RE0024,Pune,Lakeside,Villa,1772,5,4.0,19,Excellent,No,Yes,27600125.0,2024-01-21
+RE0025,Pune,Riverside,Apartment,729,2,2.0,10,Good,No,Yes,7821000.0,2025-07-02
+RE0026,Pune,Greenfield,Apartment,491,1,1.0,25,Average,No,No,3348000.0,2025-08-21
+RE0027,Pune,Downtown,Apartment,1707,3,2.0,5,Average,Yes,No,22389000.0,2025-11-10
+RE0028,Pune,Suburb,Villa,872,2,2.0,12,Average,Yes,Yes,11060000.0,2025-08-07
+RE0029,Pune,Downtown,Apartment,911,2,2.0,5,Average,No,Yes,11288000.0,2025-11-17
+RE0030,Pune,Greenfield,Apartment,1533,4,3.0,18,Average,Yes,Yes,11729000.0,2025-11-18
+RE0031,Pune,Lakeside,Townhouse,1560,3,3.0,22,Excellent,No,No,18543000.0,2024-04-06
+RE0032,Pune,Lakeside,Apartment,1055,2,2.0,16,Good,No,Yes,10523000.0,2024-05-04
+RE0033,Pune,Greenfield,Apartment,1307,3,2.0,19,Average,Yes,Yes,10982000.0,2021-04-06
+RE0034,Pune,Suburb,Studio,1740,3,2.0,15,Good,No,No,13973000.0,2022-12-30
+RE0035,Pune,Suburb,Townhouse,1263,2,2.0,14,Good,Yes,No,11065000.0,2025-02-16
+RE0036,Pune,Lakeside,Townhouse,1882,5,4.0,10,Excellent,Yes,Yes,12543000.0,2024-11-17
+RE0037,Pune,Hillside,Townhouse,1554,3,2.0,19,Needs Renovation,Yes,No,12895000.0,2022-10-15
+RE0038,Pune,Suburb,Villa,1699,4,4.0,13,Average,Yes,No,21452000.0,2025-03-12
+RE0039,Pune,Suburb,Townhouse,1228,2,2.0,4,Average,No,No,12574000.0,2024-10-28
+RE0040,Pune,Greenfield,Apartment,1324,3,3.0,3,Good,Yes,No,11077000.0,2025-07-30
+RE0041,Pune,Suburb,Villa,480,1,1.0,16,Good,No,No,5292000.0,2023-05-27
+RE0042,Pune,Downtown,Apartment,1666,3,3.0,5,Excellent,No,Yes,24964000.0,2021-04-15
+RE0043,Pune,Suburb,Apartment,1151,2,2.0,14,Needs Renovation,Yes,Yes,8581000.0,2023-05-31
+RE0044,Pune,Hillside,Apartment,1100,1,1.0,6,Good,No,Yes,10735000.0,2023-02-02
+RE0045,Pune,Suburb,Apartment,1671,4,3.0,7,Good,No,Yes,13226000.0,2021-06-15
+RE0046,Pune,Riverside,Studio,1655,3,2.0,16,Average,No,No,15848000.0,2023-09-11
+RE0047,Pune,Downtown,Villa,748,1,1.0,16,Average,Yes,No,9455000.0,2023-06-19
+RE0048,Pune,Downtown,Apartment,1861,4,4.0,3,Good,Yes,Yes,27399000.0,2022-08-27
+RE0049,Pune,Suburb,Apartment,1739,5,4.0,7,Good,Yes,No,16040000.0,2021-08-02
+RE0050,Pune,Downtown,Townhouse,863,2,2.0,4,Good,Yes,No,13571000.0,2022-04-19
+RE0051,Pune,Hillside,Villa,1061,2,2.0,13,Good,Yes,No,12386000.0,2021-01-28
+RE0052,Pune,Downtown,Apartment,1465,2,1.0,21,Excellent,Yes,Yes,17371000.0,2021-04-21
+RE0053,Pune,Hillside,Villa,1667,5,3.0,2,Good,Yes,Yes,24267000.0,2024-11-01
+RE0054,Pune,Suburb,Apartment,1443,3,2.0,7,Good,Yes,No,12371000.0,2023-01-29
+RE0055,Pune,Downtown,Apartment,1210,3,2.0,13,Average,Yes,No,15952000.0,2021-06-22
+RE0056,Pune,Hillside,Apartment,1348,2,1.0,0,Good,No,Yes,13259000.0,2021-05-19
+RE0057,Pune,Lakeside,Apartment,544,2,3.0,0,Average,Yes,Yes,5818000.0,2021-11-25
+RE0058,Pune,Hillside,Villa,1230,1,1.0,14,Excellent,No,Yes,13879000.0,2022-01-11
+RE0059,Pune,Lakeside,Apartment,1383,3,3.0,13,Excellent,Yes,Yes,16198000.0,2021-03-19
+RE0060,Pune,Riverside,Apartment,1373,3,3.0,8,Good,Yes,Yes,16686000.0,2023-11-13
+RE0061,Pune,Riverside,Villa,726,1,1.0,10,Good,Yes,No,10037000.0,2022-07-08
+RE0062,Pune,Downtown,Townhouse,614,2,3.0,11,Good,Yes,Yes,8989000.0,2023-08-09
+RE0063,Pune,Downtown,Apartment,1131,4,3.0,11,Average,No,No,12112000.0,2025-07-30
+RE0064,Pune,Downtown,Apartment,1386,3,3.0,19,Average,Yes,Yes,17782000.0,2021-01-11
+RE0065,Pune,Lakeside,Apartment,1007,1,1.0,0,Average,No,Yes,11272000.0,2023-10-05
+RE0066,Pune,Greenfield,Studio,996,1,1.0,23,Good,No,No,6572000.0,2025-10-16
+RE0067,Pune,Lakeside,Apartment,930,2,2.0,7,Good,No,No,9399000.0,2024-08-25
+RE0068,Pune,Suburb,Townhouse,765,2,1.0,8,Good,No,No,7829000.0,2023-07-28
+RE0069,Pune,Downtown,Studio,1315,2,2.0,5,Good,Yes,No,14225000.0,2024-10-16
+RE0070,Pune,Downtown,Apartment,897,4,3.0,10,Good,Yes,Yes,11788000.0,2021-10-12
+RE0071,Pune,Greenfield,Apartment,1256,3,3.0,2,Average,Yes,No,12896000.0,2025-07-26
+RE0072,Pune,Downtown,Townhouse,1832,4,3.0,15,Good,Yes,Yes,23719000.0,2024-04-16
+RE0073,Pune,Lakeside,Apartment,582,1,1.0,0,Average,No,No,5748000.0,2024-07-11
+RE0074,Pune,Downtown,Apartment,1503,4,3.0,7,Average,Yes,Yes,22190000.0,2023-08-02
+RE0075,Pune,Downtown,Villa,1391,3,3.0,16,Good,No,No,23342000.0,2024-02-17
+RE0076,Pune,Suburb,Villa,1411,4,2.0,0,Needs Renovation,No,Yes,17498000.0,2022-12-15
+RE0077,Pune,Riverside,Studio,682,1,2.0,0,Good,Yes,No,7272000.0,2022-05-09
+RE0078,Pune,Lakeside,Villa,1519,3,2.0,11,Good,No,No,20953000.0,2024-11-02
+RE0079,Pune,Greenfield,Apartment,1001,2,2.0,3,Average,No,No,8699000.0,2023-09-08
+RE0080,Pune,Suburb,Villa,683,1,1.0,0,Good,Yes,No,8530000.0,2024-02-11
+RE0081,Pune,Greenfield,Villa,1105,3,2.0,9,Excellent,No,No,10756000.0,2022-04-27
+RE0082,Pune,Greenfield,Villa,1200,2,1.0,21,Average,Yes,Yes,10566000.0,2025-03-02
+RE0083,Pune,Hillside,Villa,1367,2,2.0,8,Good,Yes,No,17061000.0,2025-12-05
+RE0084,Pune,Greenfield,Townhouse,1367,3,3.0,19,Good,No,Yes,12604000.0,2023-11-06
+RE0085,Pune,Lakeside,Apartment,1436,3,3.0,8,Excellent,Yes,No,18055000.0,2024-07-20
+RE0086,Pune,Greenfield,Apartment,1121,2,3.0,10,Good,Yes,No,9523000.0,2022-05-12
+RE0087,Pune,Riverside,Villa,1200,4,4.0,8,Needs Renovation,Yes,Yes,16852000.0,2024-07-21
+RE0088,Pune,Lakeside,Townhouse,450,1,2.0,26,Excellent,No,No,4618000.0,2023-07-10
+RE0089,Pune,Suburb,Villa,498,1,1.0,15,Needs Renovation,Yes,Yes,4564000.0,2024-09-29
+RE0090,Pune,Downtown,Studio,1372,2,2.0,11,Excellent,No,No,15264000.0,2021-08-14
+RE0091,Pune,Downtown,Studio,1558,4,3.0,10,Good,No,No,17699000.0,2025-12-02
+RE0092,Pune,Greenfield,Apartment,940,4,3.0,0,Average,Yes,No,8514000.0,2021-01-03
+RE0093,Pune,Hillside,Apartment,1221,1,2.0,22,Excellent,No,No,9287000.0,2022-06-05
+RE0094,Pune,Suburb,Studio,1014,1,1.0,8,Average,No,Yes,7613000.0,2023-03-07
+RE0095,Pune,Downtown,Townhouse,450,1,2.0,12,Average,Yes,No,6823000.0,2024-03-16
+RE0096,Pune,Lakeside,Apartment,753,1,1.0,1,Needs Renovation,Yes,No,1200000.0,2022-12-01
+RE0097,Pune,Downtown,Townhouse,1091,2,2.0,4,Excellent,Yes,Yes,16879000.0,2024-06-01
+RE0098,Pune,Downtown,Apartment,1012,1,1.0,8,Good,Yes,No,12501000.0,2023-09-21
+RE0099,Pune,Suburb,Villa,1211,3,2.0,7,Average,Yes,No,14075000.0,2021-07-29
+RE0100,Pune,Lakeside,Studio,1211,3,2.0,9,Excellent,No,No,10292000.0,2024-12-24
+RE0101,Pune,Riverside,Studio,1604,3,3.0,6,Good,No,No,15226000.0,2025-01-03
+RE0102,Pune,Riverside,Studio,1405,4,3.0,0,Needs Renovation,Yes,No,14361000.0,2025-03-31
+RE0103,Pune,Hillside,Apartment,1290,3,2.0,27,Good,Yes,Yes,9282000.0,2023-11-17
+RE0104,Pune,Hillside,Townhouse,1203,2,2.0,18,Average,Yes,Yes,12229000.0,2024-06-13
+RE0105,Pune,Suburb,Villa,949,2,1.0,18,Needs Renovation,Yes,No,8773000.0,2024-09-05
+RE0106,Pune,Suburb,Studio,1837,4,4.0,11,Average,Yes,Yes,15425000.0,2023-12-06
+RE0107,Pune,Downtown,Villa,1676,4,3.0,10,Good,Yes,Yes,27600125.0,2021-04-26
+RE0108,Pune,Suburb,Apartment,450,2,2.0,10,Needs Renovation,Yes,No,3717000.0,2021-01-09
+RE0109,Pune,Lakeside,Apartment,1784,4,3.0,14,Excellent,Yes,No,19028000.0,2023-06-19
+RE0110,Pune,Greenfield,Townhouse,1531,3,2.0,8,Average,No,No,12824000.0,2025-04-10
+RE0111,Pune,Lakeside,Apartment,1332,2,2.0,24,Good,No,No,14553000.0,2025-07-25
+RE0112,Pune,Downtown,Apartment,1302,2,1.0,13,Good,No,No,15009000.0,2021-01-24
+RE0113,Pune,Riverside,Apartment,603,3,2.0,22,Average,No,Yes,5012000.0,2024-06-14
+RE0114,Pune,Riverside,Townhouse,949,2,2.0,21,Average,Yes,No,9028000.0,2021-10-20
+RE0115,Pune,Lakeside,Villa,1340,2,2.0,0,Good,Yes,No,23466000.0,2021-03-07
+RE0116,Pune,Lakeside,Apartment,541,2,2.0,0,Good,No,No,6143000.0,2022-08-15
+RE0117,Pune,Riverside,Apartment,1059,3,3.0,0,Good,Yes,No,11619000.0,2024-05-12
+RE0118,Pune,Riverside,Townhouse,1332,3,3.0,7,Good,Yes,Yes,17522000.0,2022-05-26
+RE0119,Pune,Suburb,Apartment,716,2,2.0,3,Average,No,Yes,5963000.0,2021-08-05
+RE0120,Pune,Greenfield,Townhouse,1715,4,2.0,24,Good,Yes,Yes,13889000.0,2024-09-21
+RE0121,Pune,Lakeside,Townhouse,1011,2,2.0,13,Needs Renovation,Yes,Yes,13173000.0,2024-03-14
+RE0122,Pune,Hillside,Townhouse,723,1,1.0,14,Excellent,No,No,7144000.0,2024-05-28
+RE0123,Pune,Downtown,Villa,1430,3,2.0,6,Excellent,No,No,25999000.0,2025-02-14
+RE0124,Pune,Hillside,Townhouse,875,3,2.0,10,Good,Yes,No,8637000.0,2022-12-12
+RE0125,Pune,Riverside,Apartment,1924,5,3.0,22,Good,No,No,19541000.0,2025-12-06
+RE0126,Pune,Suburb,Townhouse,1068,1,2.0,0,Average,Yes,No,9564000.0,2023-08-02
+RE0127,Pune,Riverside,Townhouse,1212,4,3.0,18,Good,Yes,No,14492000.0,2023-02-26
+RE0128,Pune,Downtown,Villa,1283,2,1.0,16,Average,Yes,No,19113000.0,2025-08-09
+RE0129,Pune,Suburb,Studio,1182,3,2.0,13,Good,No,No,9632000.0,2025-12-04
+RE0130,Pune,Hillside,Apartment,918,1,1.0,27,Excellent,No,Yes,7114000.0,2025-07-15
+RE0131,Pune,Hillside,Studio,714,1,1.0,16,Average,Yes,No,12543000.0,2023-09-20
+RE0132,Pune,Riverside,Apartment,1586,4,3.0,27,Good,Yes,Yes,12686000.0,2025-01-18
+RE0133,Pune,Riverside,Apartment,1660,2,2.0,9,Good,Yes,No,18048000.0,2025-11-12
+RE0134,Pune,Downtown,Apartment,879,2,2.0,14,Excellent,Yes,No,10307000.0,2025-08-27
+RE0135,Pune,Downtown,Apartment,922,1,1.0,4,Excellent,No,No,11819000.0,2022-01-16
+RE0136,Pune,Riverside,Apartment,605,1,1.0,0,Average,Yes,No,6274000.0,2025-02-09
+RE0137,Pune,Greenfield,Apartment,829,2,2.0,7,Excellent,No,Yes,7285000.0,2021-12-14
+RE0138,Pune,Lakeside,Apartment,724,2,2.0,15,Good,Yes,No,6870000.0,2023-03-11
+RE0139,Pune,Downtown,Townhouse,1397,3,2.0,0,Good,Yes,No,18931000.0,2021-11-07
+RE0140,Pune,Downtown,Townhouse,1327,4,4.0,10,Good,Yes,No,16337000.0,2024-03-27
+RE0141,Pune,Lakeside,Townhouse,1348,3,2.0,8,Average,Yes,No,15961000.0,2025-11-27
+RE0142,Pune,Lakeside,Villa,1026,1,1.0,2,Excellent,No,Yes,15968000.0,2022-04-28
+RE0143,Pune,Suburb,Apartment,936,2,2.0,13,Good,Yes,No,7655000.0,2022-03-23
+RE0144,Pune,Greenfield,Apartment,1320,4,4.0,8,Good,No,Yes,12512000.0,2023-12-16
+RE0145,Pune,Suburb,Apartment,901,2,2.0,3,Good,Yes,Yes,9055000.0,2024-05-29
+RE0146,Pune,Greenfield,Villa,1621,3,2.0,9,Good,Yes,No,18889000.0,2025-03-30
+RE0147,Pune,Downtown,Apartment,1068,1,1.0,19,Average,Yes,No,10838000.0,2022-05-08
+RE0148,Pune,Lakeside,Townhouse,1352,3,3.0,10,Average,Yes,Yes,16251000.0,2025-12-23
+RE0149,Pune,Downtown,Townhouse,1406,2,2.0,18,Needs Renovation,Yes,Yes,18226000.0,2024-02-18
+RE0150,Pune,Suburb,Villa,1509,2,2.0,9,Average,No,No,18634000.0,2021-07-19
